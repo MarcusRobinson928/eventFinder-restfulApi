@@ -1,2 +1,1 @@
-# Homework-API
-API Homework
+# Event Finder app using RESTful APIs
